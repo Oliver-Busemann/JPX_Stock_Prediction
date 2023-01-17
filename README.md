@@ -1,7 +1,7 @@
 # JPX_Stock_Prediction<br>
-<br>
+
 https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction
-<br>
+
 ## Goal: Predict the yield for the next two days for all available stocks<br>
 
 ## 1) Notebook: Preprocessing the data<br>
